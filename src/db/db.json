@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Merell",
+    "phone": "(686) 8002593",
+    "email": "mfennelly0@twitpic.com",
+    "job": "Editor"
+  },
+  {
+    "id": 2,
+    "name": "Farica",
+    "phone": "(302) 5106952",
+    "email": "fhendonson1@diigo.com",
+    "job": "Senior Cost Accountant"
+  },
+  {
+    "id": 3,
+    "name": "Marcela",
+    "phone": "(611) 9960261",
+    "email": "medmenson2@dyndns.org",
+    "job": "Clinical Specialist"
+  },
+  {
+    "id": 4,
+    "name": "Saxon",
+    "phone": "(285) 4178872",
+    "email": "sandrejs3@adobe.com",
+    "job": "VP Product Management"
+  },
+  {
+    "id": 5,
+    "name": "Michael",
+    "phone": "(293) 6534976",
+    "email": "mpottie4@imageshack.us",
+    "job": "Payment Adjustment Coordinator"
+  }
+]
