@@ -1,8 +1,8 @@
-import fs from 'node:fs/promises';
-import { PATH_DB } from '../constants/contacts.js';
+import { writeContacts } from '../utils/writeContacts.js';
 
 export const removeAllContacts = async () => {
-  fs.writeFile(PATH_DB, '[]');
+  await writeContacts([]);
+  console.log('All contacts removed');
 };
 
 removeAllContacts();
